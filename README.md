@@ -43,16 +43,18 @@
 
 Проекты, выполненные в рамках курса по Java-разработке в Нетологии.
 
-### 🔹 ConverterToGraphics
+### 🔹 Converter To Graphics
 
 Java-приложение для преобразования данных в графическое представление.
 
 **Технологии:**
 `Java` `OOP` `Collections` `Maven`
 
-👉 [Репозиторий](https://github.com/klimp2287/ConverterToGraphics)
+👉 [Репозиторий](https://github.com/klimp2287/converter-to-graphics)
 
-### 🔹 NetworkChat
+---
+
+### 🔹 Network Chat
 
 Консольное клиент-серверное приложение для обмена сообщениями.
 
@@ -66,7 +68,7 @@ Java-приложение для преобразования данных в г
 **Технологии:**
 `Java` `Sockets` `Maven` `Logging`
 
-👉 [Репозиторий](https://github.com/klimp2287/NetworkChat)
+👉 [Репозиторий](https://github.com/klimp2287/network-chat)
 
 ---
 
@@ -83,6 +85,8 @@ Backend-приложение для управления магазином ша
 
 👉 [Репозиторий](https://github.com/klimp2287/shaurma-shop)
 
+---
+
 ### ✅ ToDo List Web Application
 
 Веб-приложение для управления задачами.
@@ -90,18 +94,24 @@ Backend-приложение для управления магазином ша
 **Технологии:**
 `Java` `Spring` `Spring MVC` `JPA` `Hibernate` `PostgreSQL`
 
-👉 [Репозиторий](https://github.com/klimp2287/ToDoListWebApplication)
+Реализация без Spring Boot 👉 [Репозиторий](https://github.com/klimp2287/todo-list-web)
 
-### 🌐 PostRestService
+Реализация со Spring Boot 👉 [Репозиторий](https://github.com/klimp2287/todo-list-spring-boot)
+
+---
+
+### 🌐 Post REST Service
 
 REST API для работы с публикациями.
 
 **Технологии:**
 `Java` `Spring Boot` `REST API` `JPA` `Hibernate`
 
-👉 [Репозиторий](https://github.com/klimp2287/ToDoListApplicationWithSpringBoot)
+👉 [Репозиторий](https://github.com/klimp2287/post-rest-service)
 
-### 👥 SocialNetworkWebApplication
+---
+
+### 👥 Social Network Web Application
 
 Веб-приложение социальной сети, взаимодействующее с `PostRestService` через REST API.
 
@@ -110,7 +120,7 @@ REST API для работы с публикациями.
 **Технологии:**
 `Java` `Spring` `Spring MVC` `REST API` `HTML` `CSS`
 
-👉 [Репозиторий](https://github.com/klimp2287/SocialNetworkWebApplication)
+👉 [Репозиторий](https://github.com/klimp2287/social-network-web)
 
 ---
 
