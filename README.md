@@ -43,6 +43,8 @@
 
 Проекты, выполненные в рамках курса по Java-разработке в Нетологии.
 
+---
+
 ### 🔹 Converter To Graphics
 
 Java-приложение для преобразования данных в графическое представление.
@@ -75,15 +77,6 @@ Java-приложение для преобразования данных в г
 # 💻 Личные проекты
 
 Проекты, разработанные самостоятельно для практики и развития навыков Java Backend-разработки.
-
-### 🍽️ Shawarma Shop
-
-Backend-приложение для управления магазином шаурмы.
-
-**Технологии:**
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL`
-
-👉 [Репозиторий](https://github.com/klimp2287/shaurma-shop)
 
 ---
 
@@ -123,6 +116,18 @@ REST API для работы с публикациями.
 👉 [Репозиторий](https://github.com/klimp2287/social-network-web)
 
 ---
+
+### 🍽️ Shawarma Shop
+
+Backend-приложение для управления магазином шаурмы.
+
+**Технологии:**
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL`
+
+👉 [Репозиторий](https://github.com/klimp2287/shaurma-shop)
+
+---
+
 
 # 📈 Сейчас изучаю
 
