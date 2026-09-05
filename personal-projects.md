@@ -1,6 +1,4 @@
-<span style="font-size: 30px;">💻 Личные проекты</span>
-
----
+# 💻 Личные проекты
 
 ### 🔹 ToDo List Web Application
 
