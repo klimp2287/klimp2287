@@ -42,7 +42,7 @@ REST API для работы с публикациями.
 Backend-приложение для управления магазином шаурмы.
 
 **Технологии:**
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL`
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL`
 
 👉 [Репозиторий](https://github.com/klimp2287/shaurma-shop)
 
