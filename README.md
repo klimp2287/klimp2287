@@ -42,33 +42,21 @@
 
 ---
 
-<img src="images/netology.png" alt="описание" width="300" />
+<img src="netology/images/netology.png" alt="описание" width="300" />
 
 Проекты, выполненные в рамках курса Java-разработки в Нетологии.
 
-👉 [Перейти к проектам от Нетологии](./netology-projects.md)
+👉 [Перейти к проектам от Нетологии](netology/netology-projects.md)
 
 ---
 
-<img src="images/t-academy.png" alt="описание" width="300" />
+<img src="t-academy/images/t-academy.png" alt="описание" width="300" />
 
 Проекты, выполненные в рамках курса Java-разработки в Т-Академии.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="./t-academy-semester-1.md"><b>Семестр 1</b></a>
-    </td>
-    <td align="center">➜</td>
-    <td align="center">
-      <a href="./t-academy-semester-2.md"><b>Семестр 2</b></a>
-    </td>
-    <td align="center">➜</td>
-    <td align="center">
-      <a href="./t-academy-semester-3.md"><b>Семестр 3</b></a>
-    </td>
-  </tr>
-</table>
+[Семестр 1](./t-academy/t-academy-semester-1.md) ➜ 
+[Семестр 2](./t-academy/t-academy-semester-2.md) ➜ 
+[Семестр 3](./t-academy/t-academy-semester-3.md)
 
 ---
 

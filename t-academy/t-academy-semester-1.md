@@ -1,4 +1,4 @@
-<img src="images/t-academy.png" />
+<img src="./images//t-academy.png" />
 
 ---
 

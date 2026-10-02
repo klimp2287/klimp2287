@@ -1,4 +1,4 @@
-![](images/netology.png)
+![](./images/netology.png)
 
 ---
 
