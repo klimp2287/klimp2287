@@ -54,7 +54,21 @@
 
 Проекты, выполненные в рамках курса Java-разработки в Т-Академии.
 
-👉 [Перейти к проектам Т-Академии](./tbank-academy.md)
+<table>
+  <tr>
+    <td align="center">
+      <a href="./t-academy-semester-1.md"><b>Семестр 1</b></a>
+    </td>
+    <td align="center">➜</td>
+    <td align="center">
+      <a href="./t-academy-semester-2.md"><b>Семестр 2</b></a>
+    </td>
+    <td align="center">➜</td>
+    <td align="center">
+      <a href="./t-academy-semester-3.md"><b>Семестр 3</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
